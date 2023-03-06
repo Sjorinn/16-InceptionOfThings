@@ -1,4 +1,4 @@
-#16-Inception-of-Things
+# 16-Inception-of-Things
 
 This project aims to introduce you to kubernetes from a developer perspective.
 You will have to set up small clusters and discover the mechanics of continuous integration.
